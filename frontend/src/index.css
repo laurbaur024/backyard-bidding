@@ -1,0 +1,50 @@
+/* global */
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+head, body {
+background-color: #302f4d !important;
+}
+
+/* logo */
+
+.logoImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* header */
+.header {
+  background-color: #302f4d !important;
+  box-shadow: 0 -6px 10px 5px rgba(0,0,0,0.5)
+}
+
+.headerTitle {
+  font-family: 'Abril Fatface', serif;
+  font-size: 40px !important;
+  color: #a57982 !important;
+}
+
+.headerTitle:hover {
+  color: white !important;
+}
+
+.headerLinks {
+  color: white !important;
+}
+
+.headerLinks:hover {
+  color: #a57982 !important;
+}
+
+/* dashboard */
+.dashBtn {
+  margin: 10px;
+}
+
+.dashBtn Button {
+  background-color: #009fb7;
+  border-color: #009fb7;
+}
